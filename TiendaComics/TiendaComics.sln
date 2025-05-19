@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentaciones", "1. Presentaciones", "{6D67FC6A-F4D4-4837-B009-7A551A9B9DDC}"
 EndProject
@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. PruebasUnitarias", "4. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_dominio", "lib_dominio\lib_dominio.csproj", "{16EE3E6A-0BD7-40F5-A583-07105D4CCEB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_repositorios", "lib_repositorios\lib_repositorios.csproj", "{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,11 +25,16 @@ Global
 		{16EE3E6A-0BD7-40F5-A583-07105D4CCEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EE3E6A-0BD7-40F5-A583-07105D4CCEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EE3E6A-0BD7-40F5-A583-07105D4CCEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{16EE3E6A-0BD7-40F5-A583-07105D4CCEB1} = {B0CAF963-34E7-4D3E-A56E-3495F64C115F}
+		{AD3A246C-954C-46ED-81A9-22D4F0AC16A0} = {AD3B2584-C428-4A98-9BD2-E803555BA7FB}
 	EndGlobalSection
 EndGlobal
