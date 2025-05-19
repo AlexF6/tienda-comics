@@ -10,6 +10,7 @@ namespace lib_repositorios.Interfaces
         
         DbSet<Categorias>? Categorias { get; set; }
         DbSet<Clientes>? Clientes { get; set; }
+        DbSet<Comics>? Comics { get; set; }
         DbSet<DetallesVentas>? DetallesVentas { get; set; }
         DbSet<Editoriales>? Editoriales { get; set; }
         DbSet<MetodosDePagos>? MetodosDePagos { get; set; }
