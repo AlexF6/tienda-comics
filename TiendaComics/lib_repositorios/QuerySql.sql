@@ -159,3 +159,13 @@ SELECT * FROM [Sucursales];
 SELECT * FROM [MetodosDePagos];
 SELECT * FROM [DetallesVentas];
 SELECT * FROM [Ventas];
+
+--DROP TABLE IF EXISTS DetallesVentas;
+--DROP TABLE IF EXISTS Ventas;
+--DROP TABLE IF EXISTS Comics;
+--DROP TABLE IF EXISTS Vendedores;
+--DROP TABLE IF EXISTS Clientes;
+--DROP TABLE IF EXISTS MetodosDePagos;
+--DROP TABLE IF EXISTS Sucursales;
+--DROP TABLE IF EXISTS Categorias;
+--DROP TABLE IF EXISTS Editoriales;
