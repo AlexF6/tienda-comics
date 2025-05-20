@@ -48,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcQ2xpZW50ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/perol/Desktop/Dev/tienda-comics/TiendaComics/asp_presentacion/Pages/Ventanas/Comics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcQ29taWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/perol/Desktop/Dev/tienda-comics/TiendaComics/asp_presentacion/Pages/Ventanas/Editoriales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcRWRpdG9yaWFsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/perol/Desktop/Dev/tienda-comics/TiendaComics/asp_presentacion/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

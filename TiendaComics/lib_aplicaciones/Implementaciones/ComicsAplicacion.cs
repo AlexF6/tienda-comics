@@ -55,7 +55,7 @@ namespace lib_aplicaciones.Implementaciones
         public List<Comics> PorCodigo(Comics? entidad)
         {
             return this.IConexion!.Comics!
-                .Where(x => x.Nombre!.Contains(entidad!.Nombre!))
+                .Where(x => x.Codigo!.Contains(entidad!.Codigo!))
                 .Include(x => x._Editorial)
                 .Include(x => x._Categoria)
                 .ToList();

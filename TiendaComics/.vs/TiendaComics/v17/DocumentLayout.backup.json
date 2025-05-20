@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\asp_presentacion\\pages\\ventanas\\categorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\categorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\asp_presentacion\\pages\\ventanas\\comics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\comics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\asp_presentacion\\pages\\ventanas\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\lib_repositorios\\querysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\querysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\asp_presentacion\\pages\\ventanas\\comics.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\comics.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D05D10-BBAE-4F26-9D92-DA23DFBDC232}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\lib_aplicaciones\\implementaciones\\comicsaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D05D10-BBAE-4F26-9D92-DA23DFBDC232}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\comicsaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{050E778C-0717-4C02-9BB3-0C5DC08AF5DE}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comics\\tiendacomics\\lib_repositorios\\querysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{AD3A246C-954C-46ED-81A9-22D4F0AC16A0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\querysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuerySql.sql ",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\lib_repositorios\\QuerySql.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\QuerySql.sql",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\lib_repositorios\\QuerySql.sql",
+              "RelativeToolTip": "lib_repositorios\\QuerySql.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-20T07:24:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comics.cshtml",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Comics.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Comics.cshtml",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Comics.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Comics.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAnwNIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T06:52:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comics.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Comics.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Comics.cshtml.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Comics.cshtml.cs",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Comics.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwCcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:00:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComicsAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\lib_aplicaciones\\Implementaciones\\ComicsAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ComicsAplicacion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\lib_aplicaciones\\Implementaciones\\ComicsAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ComicsAplicacion.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:07:25.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T06:55:32.549Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -27,32 +107,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categorias.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Categorias.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Categorias.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Categorias.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Categorias.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T03:42:16.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Clientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Clientes.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Clientes.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\tienda-comics\\TiendaComics\\asp_presentacion\\Pages\\Ventanas\\Clientes.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Clientes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T03:42:15.733Z",
-              "EditorCaption": ""
             }
           ]
         }
