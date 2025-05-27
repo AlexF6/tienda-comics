@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentacion", "1. Presentacion", "{C6FB11B6-8F77-42AA-99FC-A6E810178D8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Servicios", "2. Servicios", "{CDEE9AAB-6085-4021-9EF1-AE87096DFFE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Nucleo", "3. Nucleo", "{813713DB-847B-422F-9591-ADC54BDA433C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Pruebas Unitarias", "4. Pruebas Unitarias", "{FEC2E291-595B-4F3C-AF13-C4B2B9870C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_dominio", "lib_dominio\lib_dominio.csproj", "{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7} = {813713DB-847B-422F-9591-ADC54BDA433C}
+	EndGlobalSection
+EndGlobal

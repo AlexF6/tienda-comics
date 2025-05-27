@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Programaci\u00F3n de Software\\tienda-comics\\TiendaComics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\itm\\2025-1\\programaci\u00F3n de software\\tienda-comics\\tiendacomics\\lib_dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC50EA26-D3D6-4C7B-B633-2B08EF630DD7}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Programaci\u00F3n de Software\\tienda-comics\\TiendaComics\\lib_dominio\\Class1.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Class1.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Programaci\u00F3n de Software\\tienda-comics\\TiendaComics\\lib_dominio\\Class1.cs",
+              "RelativeToolTip": "lib_dominio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:37:42.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
